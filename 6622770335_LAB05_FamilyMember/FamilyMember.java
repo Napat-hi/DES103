@@ -25,7 +25,6 @@ public class FamilyMember{
 
     static void printFamilyFund(){
         System.out.println("The " + familyName + "family has $" + commonFund);
-        
-    }
 
+    }
 }
